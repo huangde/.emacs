@@ -1,0 +1,21 @@
+this is my emacs config file suitable for c, c++, fortran, python,
+html,css,javascript programming and latex document editing.
+
+Usage:
+on linux-like system:
+copy the .emacs and .emacs.d into your home directory,DONE.
+
+Keyboard shortcut:
+
+Ctrl-z:     switch between vim/emacs key binding
+Ctrl-space: toggle on/off ibus input method
+Ctrl-=:     toggle on/off region comment
+Shift-F1:   switch to shell
+F1:         execute asynchronous shell command
+Shift-F12:  kill curent buffer and window
+F5:	    open/close navigation window
+F6:         switch between text mode and normal mode
+F7:         compile
+F9: 	    cycle between buffers
+
+more function can be found in the .emacs file, which is self-explained.

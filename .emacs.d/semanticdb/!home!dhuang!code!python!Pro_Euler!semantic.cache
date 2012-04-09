@@ -1,0 +1,686 @@
+;; Object Pro_Euler/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "Pro_Euler/"
+  :tables (list 
+   (semanticdb-table "P11.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("pdb" include nil nil [1 11])
+            ("pdb" code nil nil [12 27])
+            ("pylab" include nil nil [56 68])
+            ("re" include nil nil [69 78])
+            ("maxprodcut_list4" function (:arguments 
+              ( ("arrlist" variable nil (reparse-symbol function_parameters) [100 107]))              ) nil [79 621])
+            ("right_diag" function (:arguments 
+              ( ("ini_i" variable nil (reparse-symbol function_parameters) [637 642])
+                ("ini_j" variable nil (reparse-symbol function_parameters) [643 648]))              ) nil [622 797])
+            ("left_diag" function (:arguments 
+              ( ("ini_i" variable nil (reparse-symbol function_parameters) [813 818])
+                ("ini_j" variable nil (reparse-symbol function_parameters) [819 824]))              ) nil [799 972])
+            ("if" code nil nil [974 1768]))          
+    :file "P11.py"
+    :pointmax 1774
+    :fsize 1764
+    :lastmodtime '(20190 32063)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P343.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("gcd" include nil nil nil)
+            ("factional_sequen" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) nil)
+                ("div" variable nil (reparse-symbol function_parameters) nil))              ) nil nil))          
+    :file "P343.py"
+    :pointmax 215
+    :fsize 214
+    :lastmodtime '(20076 5084)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P64.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("math" include nil nil [1 12])
+            ("Fraction_Series_Generator" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [43 44]))              ) nil [13 252])
+            ("gcd" function (:arguments 
+              ( ("a" variable nil (reparse-symbol function_parameters) [261 262])
+                ("b" variable nil (reparse-symbol function_parameters) [263 264]))              ) nil [253 331]))          
+    :file "P64.py"
+    :pointmax 332
+    :fsize 331
+    :lastmodtime '(20076 5086)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P70.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("phi" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [9 10]))              ) nil [1 159])
+            ("Digits" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [171 172]))              ) nil [160 251])
+            ("IsPermutation" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [270 271]))              ) nil [252 359])
+            ("if" code nil nil [360 484]))          
+    :file "P70.py"
+    :pointmax 485
+    :fsize 484
+    :lastmodtime '(20144 8647)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "gcd.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("gcd" function (:arguments 
+              ( ("a" variable nil (reparse-symbol function_parameters) [9 10])
+                ("b" variable nil (reparse-symbol function_parameters) [11 12]))              ) nil [1 124]))          
+    :file "gcd.py"
+    :pointmax 124
+    :fsize 123
+    :lastmodtime '(20194 37134)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P55.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("IsPalindromic" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [19 20]))              ) nil [1 244])
+            ("NumReverse" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [260 261]))              ) nil [245 293])
+            ("IsLychrel" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [308 309]))              ) nil [294 445])
+            ("if" code nil nil [446 575]))          
+    :file "P55.py"
+    :pointmax 580
+    :fsize 579
+    :lastmodtime '(20076 5086)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P12.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("divisors" include nil nil [1 16])
+            ("Tri_Num_Generator" function nil nil [18 105])
+            ("Natrual_Num_Generator" function nil nil [106 235])
+            ("if" code nil nil [236 773]))          
+    :file "P12.py"
+    :pointmax 774
+    :fsize 773
+    :lastmodtime '(20193 15552)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P2.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("fibo" function (:arguments 
+              ( ("nmax" variable nil (reparse-symbol function_parameters) [426 430]))              ) nil [417 584])
+            ("if" code nil nil [585 761]))          
+    :file "P2.py"
+    :pointmax 761
+    :fsize 760
+    :lastmodtime '(20042 4698)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P2_v3.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("fibo" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [10 11]))              ) nil [1 111])
+            ("fibo_gen" function nil nil [112 187])
+            ("if" code nil nil [188 361]))          
+    :file "P2_v3.py"
+    :pointmax 361
+    :fsize 360
+    :lastmodtime '(20076 5084)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P36.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("IsPalindrome" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [18 19]))              ) nil [1 144])
+            ("IsBinPalindrome" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [165 166]))              ) nil [145 266])
+            ("if" code nil nil [268 428]))          
+    :file "P36.py"
+    :pointmax 428
+    :fsize 427
+    :lastmodtime '(20097 18936)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P24.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("itertools" include nil nil [1 17])
+            ("if" code nil nil [18 221]))          
+    :file "P24.py"
+    :pointmax 222
+    :fsize 221
+    :lastmodtime '(20097 20423)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P1.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("pdb" include nil nil [1 26])
+            ("sum" variable nil nil [27 32])
+            ("for" code nil nil [33 113])
+            ("if" code nil nil [113 155]))          
+    :file "P1.py"
+    :pointmax 155
+    :fsize 154
+    :lastmodtime '(20189 45339)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "recipe-366178-1.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("primes" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [12 13]))              ) nil [1 263])
+            ("print" code nil nil [264 280])
+            ("print" code nil nil [281 299])
+            ("" code nil nil [335 355])
+            ("" code nil nil [356 2762]))          
+    :file "recipe-366178-1.py"
+    :pointmax 2763
+    :fsize 2762
+    :lastmodtime '(20077 35221)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P56.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("DigitSum" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [14 15]))              ) nil [1 85])
+            ("if" code nil nil [86 485]))          
+    :file "P56.py"
+    :pointmax 485
+    :fsize 484
+    :lastmodtime '(20076 5086)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P10.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("P3" include nil nil [1 10])
+            ("if" code nil nil [11 170]))          
+    :file "P10.py"
+    :pointmax 170
+    :fsize 169
+    :lastmodtime '(20145 22713)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P40.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("if" code nil nil [1 277]))          
+    :file "P40.py"
+    :pointmax 280
+    :fsize 279
+    :lastmodtime '(20144 2744)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P47.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("math" include nil nil [1 12])
+            ("divisors" include nil nil [13 28])
+            ("if" code nil nil [52 329]))          
+    :file "P47.py"
+    :pointmax 329
+    :fsize 328
+    :lastmodtime '(20095 8557)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "divisors.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("Primedivisors" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [19 20]))              ) nil [1 855])
+            ("d" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [1005 1006]))              ) nil [999 1148])
+            ("div_num" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [1161 1162]))              ) nil [1149 1350])
+            ("prop_divs" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [1365 1366]))              ) nil [1351 1545])
+            ("if" code nil nil [1546 1843]))          
+    :file "divisors.py"
+    :pointmax 1844
+    :fsize 1843
+    :lastmodtime '(20097 21737)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P39.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("math" include nil nil [1 12])
+            ("triangular_counts" function (:arguments 
+              ( ("p" variable nil (reparse-symbol function_parameters) [35 36]))              ) nil [13 678])
+            ("if" code nil nil [725 936]))          
+    :file "P39.py"
+    :pointmax 936
+    :fsize 935
+    :lastmodtime '(20094 59918)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P54.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("if" code nil nil [1 117]))          
+    :file "P54.py"
+    :pointmax 117
+    :fsize 116
+    :lastmodtime '(20076 5085)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P15.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("f" function (:arguments 
+              ( ("x" variable nil (reparse-symbol function_parameters) [156 157])
+                ("y" variable nil (reparse-symbol function_parameters) [158 159]))              ) nil [150 231]))          
+    :file "P15.py"
+    :pointmax 232
+    :fsize 231
+    :lastmodtime '(20109 26920)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P46.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("math" include nil nil [1 12])
+            ("Primelist" include nil nil [13 29])
+            ("P3" include nil nil [30 39])
+            ("IsSquareNum" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [57 58]))              ) nil [41 204])
+            ("CG_conjecture" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [223 224]))              ) nil [205 446])
+            ("if" code nil nil [448 621]))          
+    :file "P46.py"
+    :pointmax 621
+    :fsize 620
+    :lastmodtime '(20094 64987)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P37.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("Primelist" include nil nil [1 17])
+            ("P3" include nil nil [18 27])
+            ("TruncatablePrime" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [50 51]))              ) nil [29 385])
+            ("if" code nil nil [386 608]))          
+    :file "P37.py"
+    :pointmax 608
+    :fsize 607
+    :lastmodtime '(20195 17989)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P8.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("listproduct" function (:arguments 
+              ( ("list" variable nil (reparse-symbol function_parameters) [17 21]))              ) nil [1 100])
+            ("re" include nil nil [102 111])
+            ("if" code nil nil [112 620]))          
+    :file "P8.py"
+    :pointmax 620
+    :fsize 619
+    :lastmodtime '(20076 5085)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P29.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("if" code nil nil [1 154]))          
+    :file "P29.py"
+    :pointmax 154
+    :fsize 153
+    :lastmodtime '(20097 24294)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P35.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("Primelist" include nil nil [1 17])
+            ("P3" include nil nil [18 27])
+            ("RingRotate" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [44 45]))              ) nil [29 170])
+            ("cyclic" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [182 183]))              ) nil [171 389])
+            ("cyclicPrime" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [406 407]))              ) nil [390 541])
+            ("if" code nil nil [542 724]))          
+    :file "P35.py"
+    :pointmax 724
+    :fsize 723
+    :lastmodtime '(20142 58287)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P52.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("Digits" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [12 13]))              ) nil [1 92])
+            ("if" code nil nil [94 334]))          
+    :file "P52.py"
+    :pointmax 347
+    :fsize 346
+    :lastmodtime '(20144 6145)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P23.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("divisors" include nil nil [1 16])
+            ("itertools" include nil nil [17 33])
+            ("if" code nil nil [34 469]))          
+    :file "P23.py"
+    :pointmax 469
+    :fsize 468
+    :lastmodtime '(20122 38008)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P14.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("Collatz_series" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [20 21]))              ) nil [1 156])
+            ("if" code nil nil [157 357]))          
+    :file "P14.py"
+    :pointmax 358
+    :fsize 357
+    :lastmodtime '(20193 29100)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P7.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("P3" include nil nil [1 10])
+            ("Prime_Generator" function nil nil [12 119]))          
+    :file "P7.py"
+    :pointmax 119
+    :fsize 118
+    :lastmodtime '(20184 48566)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P2_v1.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("fibo" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [10 11]))              ) nil [1 90])
+            ("if" code nil nil [91 282]))          
+    :file "P2_v1.py"
+    :pointmax 282
+    :fsize 281
+    :lastmodtime '(20076 5084)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P45.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("Hexagonal" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [15 16]))              ) nil [1 74])
+            ("triagle" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [87 88]))              ) nil [75 144])
+            ("pentagonal" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [160 161]))              ) nil [145 222])
+            ("if" code nil nil [223 413]))          
+    :file "P45.py"
+    :pointmax 859
+    :fsize 858
+    :lastmodtime '(20094 55036)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P28.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("if" code nil nil [1 297]))          
+    :file "P28.py"
+    :pointmax 298
+    :fsize 297
+    :lastmodtime '(20123 22280)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P50.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("Primelist" include nil nil [1 17])
+            ("if" code nil nil [18 204]))          
+    :file "P50.py"
+    :pointmax 204
+    :fsize 203
+    :lastmodtime '(20095 15682)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P5.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("math" include nil nil [1 12])
+            ("IsPrime" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [25 26]))              ) nil [13 461])
+            ("MaxFactor" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [477 478]))              ) nil [463 727])
+            ("PrimeFactors" function (:arguments 
+              ( ("Num" variable nil (reparse-symbol function_parameters) [745 748]))              ) nil [728 1003])
+            ("if" code nil nil [1004 1065]))          
+    :file "P5.py"
+    :pointmax 1065
+    :fsize 1064
+    :lastmodtime '(20043 22867)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P59.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("itertools" include nil nil [1 17])
+            ("string" include nil nil [18 31])
+            ("Pwd_dict_Generator" function nil nil [32 251])
+            ("Pwd_Generator" function nil nil [252 446])
+            ("cyclic_pwd" function (:arguments 
+              ( ("pwd" variable nil (reparse-symbol function_parameters) [462 465]))              ) nil [447 531])
+            ("Translator" function (:arguments 
+              ( ("cipher" variable nil (reparse-symbol function_parameters) [548 554])
+                ("key" variable nil (reparse-symbol function_parameters) [555 558]))              ) nil [533 606])
+            ("if" code nil nil [607 1025]))          
+    :file "P59.py"
+    :pointmax 1026
+    :fsize 1025
+    :lastmodtime '(20102 16752)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P17.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("num2word" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [14 15]))              ) nil [1 1011])
+            ("if" code nil nil [1014 1161]))          
+    :file "P17.py"
+    :pointmax 1161
+    :fsize 1160
+    :lastmodtime '(20121 10357)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "test.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("if" code nil nil [1 102]))          
+    :file "test.py"
+    :pointmax 102
+    :fsize 101
+    :lastmodtime '(20147 56538)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P43.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("string" include nil nil [1 14])
+            ("NextThreeDigitsNum" function (:arguments 
+              ( ("str_N" variable nil (reparse-symbol function_parameters) [155 160]))              ) nil [132 396])
+            ("if" code nil nil [397 579]))          
+    :file "P43.py"
+    :pointmax 579
+    :fsize 578
+    :lastmodtime '(20151 10050)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P3.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("math" include nil nil [1 12])
+            ("IsPrime" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [25 26]))              ) nil [13 461])
+            ("MaxFactor" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [477 478]))              ) nil [463 680])
+            ("if" code nil nil [681 976]))          
+    :file "P3.py"
+    :pointmax 977
+    :fsize 976
+    :lastmodtime '(20044 58018)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P4.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("operator" include nil nil [1 16])
+            ("math" include nil nil [18 29])
+            ("ThreeDigitFactor_palindro" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [60 61]))              ) nil [30 280])
+            ("palindro" function nil nil [282 608])
+            ("if" code nil nil [609 769]))          
+    :file "P4.py"
+    :pointmax 770
+    :fsize 769
+    :lastmodtime '(20043 21536)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P2_v2.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("fibo" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [10 11]))              ) nil [1 90])
+            ("fibo_gen" function (:arguments 
+              ( ("imax" variable nil (reparse-symbol function_parameters) [104 108]))              ) nil [91 178])
+            ("if" code nil nil [179 319]))          
+    :file "P2_v2.py"
+    :pointmax 319
+    :fsize 318
+    :lastmodtime '(20076 5084)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P13.py"
+    :major-mode 'python-mode
+    :tags nil
+    :file "P13.py"
+    :pointmax 1
+    :fsize 0
+    :lastmodtime '(20147 52426)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P49.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("math" include nil nil [1 12])
+            ("itertools" include nil nil [13 29])
+            ("Primelist" include nil nil [30 46])
+            ("if" code nil nil [48 728]))          
+    :file "P49.py"
+    :pointmax 728
+    :fsize 727
+    :lastmodtime '(20095 14414)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P57.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("FractionExpansion" function nil nil [1 173])
+            ("if" code nil nil [174 392]))          
+    :file "P57.py"
+    :pointmax 392
+    :fsize 391
+    :lastmodtime '(20076 5086)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P25.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("fibo_generator" function nil nil [1 89])
+            ("if" code nil nil [89 317]))          
+    :file "P25.py"
+    :pointmax 319
+    :fsize 318
+    :lastmodtime '(20044 60428)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P22.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("alphabecode" function (:arguments 
+              ( ("name" variable nil (reparse-symbol function_parameters) [17 21]))              ) nil [1 220])
+            ("if" code nil nil [221 522]))          
+    :file "P22.py"
+    :pointmax 551
+    :fsize 550
+    :lastmodtime '(20076 5085)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P53.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("scipy" include nil nil [1 13])
+            ("Gt_Million_comb" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [36 37]))              ) nil [16 133])
+            ("if" code nil nil [134 241]))          
+    :file "P53.py"
+    :pointmax 246
+    :fsize 245
+    :lastmodtime '(20076 5086)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "Primelist.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("math" include nil nil [1 12])
+            ("Primelist" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [27 28]))              ) nil [13 421])
+            ("sieve_Primelist" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [442 443]))              ) nil [422 832])
+            ("primes" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [844 845]))              ) nil [833 1221]))          
+    :file "Primelist.py"
+    :pointmax 1221
+    :fsize 1220
+    :lastmodtime '(20093 14890)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P26.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("recurcycle2" function (:arguments 
+              ( ("n" variable nil (reparse-symbol function_parameters) [17 18]))              ) nil [1 191])
+            ("if" code nil nil [192 412]))          
+    :file "P26.py"
+    :pointmax 412
+    :fsize 411
+    :lastmodtime '(20194 27662)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "P6.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("sum_sq" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [12 13]))              ) nil [1 122])
+            ("sq_sum" function (:arguments 
+              ( ("N" variable nil (reparse-symbol function_parameters) [134 135]))              ) nil [123 225])
+            ("if" code nil nil [226 307]))          
+    :file "P6.py"
+    :pointmax 307
+    :fsize 306
+    :lastmodtime '(20180 4901)
+    :unmatched-syntax 'nil
+    )
+   )
+  :file "!home!dhuang!code!python!Pro_Euler!semantic.cache"
+  :semantic-tag-version "2.0pre7"
+  :semanticdb-version "2.0pre7"
+  )

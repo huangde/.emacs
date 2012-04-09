@@ -1,0 +1,18 @@
+;; Object Photos/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "Photos/"
+  :tables (list 
+   (semanticdb-table "oxygen.html"
+    :major-mode 'html-mode
+    :tags nil
+    :file "oxygen.html"
+    :pointmax 177
+    :fsize 176
+    :lastmodtime '(17009 6050)
+    :unmatched-syntax 'nil
+    )
+   )
+  :file "!home!dhuang!Pictures!Photos!semantic.cache"
+  :semantic-tag-version "2.0pre7"
+  :semanticdb-version "2.0pre7"
+  )

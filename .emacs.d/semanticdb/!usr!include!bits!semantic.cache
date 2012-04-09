@@ -1,0 +1,43 @@
+;; Object bits/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "bits/"
+  :tables (list 
+   (semanticdb-table "predefs.h"
+    :major-mode 'c-mode
+    :tags 
+        '( ("_PREDEFS_H" variable (:constant-flag t) nil [984 994])
+            ("__STDC_IEC_559__" variable (:constant-flag t) nil [1075 1091])
+            ("__STDC_IEC_559_COMPLEX__" variable (:constant-flag t) nil [1103 1127]))          
+    :file "predefs.h"
+    :pointmax 1154
+    :fsize 1153
+    :lastmodtime '(19874 57581)
+    :unmatched-syntax '((string 880 . 948) (symbol 874 . 879) (punctuation 872 . 873))
+    :lexical-table 
+        '(("_PREDEFS_H")
+          ("__STDC_IEC_559__" . ((number "1" 1093 . 1094)))
+          ("__STDC_IEC_559_COMPLEX__" . ((number "1" 1128 . 1129)))
+          )
+
+    )
+   (semanticdb-table "wordsize.h"
+    :major-mode 'c-mode
+    :tags 
+        '( ("__WORDSIZE" variable (:constant-flag t) nil [95 105])
+            ("__WORDSIZE_COMPAT32" variable (:constant-flag t) nil [118 137]))          
+    :file "wordsize.h"
+    :pointmax 176
+    :fsize 175
+    :lastmodtime '(19874 57597)
+    :unmatched-syntax 'nil
+    :lexical-table 
+        '(("__WORDSIZE" . ((number "64" 106 . 108)))
+          ("__WORDSIZE_COMPAT32" . ((number "1" 138 . 139)))
+          )
+
+    )
+   )
+  :file "!usr!include!bits!semantic.cache"
+  :semantic-tag-version "2.0pre7"
+  :semanticdb-version "2.0pre7"
+  )
